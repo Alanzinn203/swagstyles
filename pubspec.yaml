@@ -1,0 +1,43 @@
+name: universoair
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.1
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  video_player: ^2.8.1
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^6.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/airmax95og.jpg
+    - assets/images/airmax97white.jpg
+    - assets/images/airmaxtn_sunset.jpg
+    - assets/images/dn_laserorange.jpg
+    - assets/images/j11retro2.jpg
+    - assets/images/jordan4yellow.jpg
+    - assets/images/p6000silver.jpg
+    - assets/images/dn8sp.jpg
+    - assets/images/travisaj.jpg
