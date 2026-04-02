@@ -1113,7 +1113,7 @@ class AccountScreen extends StatelessWidget {
               ),
               child: const Text('Sair'),
             ),
-          ],
+          
         ),
       ),
     );
